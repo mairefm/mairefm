@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Mairê!
 
-<!--
-**mairefm/mairefm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora de sistemas e professora de TI, apaixonada por transformar ideias em soluções digitais. Gosto de aplicar o que aprendo no mundo real, sempre buscando as melhores práticas para criar entregas funcionais e inovadoras.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que uso no dia a dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frontend:**
+- HTML, CSS, JavaScript, TypeScript
+
+### **Backend:**
+- PHP, Node.js, C#
+
+### **Frameworks e Ferramentas:**
+- WordPress (Elementor, WooCommerce, JetEngine, ACF)
+- Git, GitHub
+
+### **Desenvolvimento de Projetos:**
+- Criação de landing pages, projetos de cadastro/login, e-mails marketing, integrações e muito mais.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 1. **[Cervejaria Goro - Projeto Digital House](https://github.com/Zer0iUm/cervejaria-goro)**
+- **Tecnologia:** Node.js, Express
+- **Descrição:** Este projeto foi desenvolvido durante o curso da Digital House, criando uma aplicação backend para uma cervejaria com funcionalidades de cadastro de produtos e controle de estoque.
+- **Status:** Projeto em andamento.
+
+### 2. **[Trilha HTML - Módulo 3](https://github.com/maireox/trilha-html-modulo-3)**
+- **Tecnologia:** HTML
+- **Status:** Atualizado em Junho de 2024
+
+### 3. **[Trilha .NET - Testes Unitários Desafio](https://github.com/maireox/trilha-net-testes-unitarios-desafio)**
+- **Tecnologia:** C#
+- **Status:** Atualizado em Janeiro de 2024
+
+### 4. **[Login-Cadastro - Dev P2](https://github.com/maireox/Login-Cadastro-Dev-P2)**
+- **Tecnologia:** CSS
+- **Status:** Atualizado em Julho de 2023
+
+---
+
+## 📫 Fale comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maire-malheiros-ti/)
+
+---
+
+🧙‍♀️ *"Com código e coragem, a gente constrói o futuro."*
+
