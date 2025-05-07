@@ -25,13 +25,13 @@ Sou desenvolvedora de sistemas e professora de TI, apaixonada por transformar id
 - **Tecnologia:** Node.js, Express
 - **Descrição:** Este projeto foi desenvolvido durante o curso da Digital House, criando uma aplicação backend para uma cervejaria com funcionalidades de cadastro de produtos e controle de estoque.
 
-### 2. **[Trilha HTML - Módulo 3](https://github.com/maireox/trilha-html-modulo-3)**
+### 2. **[Trilha HTML - Módulo 3](https://github.com/mairefm/trilha-html-modulo-3)**
 - **Tecnologia:** HTML
 
-### 3. **[Trilha .NET - Testes Unitários Desafio](https://github.com/maireox/trilha-net-testes-unitarios-desafio)**
+### 3. **[Trilha .NET - Testes Unitários Desafio](https://github.com/mairefm/trilha-net-testes-unitarios-desafio)**
 - **Tecnologia:** C#
 
-### 4. **[Login-Cadastro - Dev P2](https://github.com/maireox/Login-Cadastro-Dev-P2)**
+### 4. **[Login-Cadastro - Dev P2](https://github.com/mairefm/Login-Cadastro-Dev-P2)**
 - **Tecnologia:** CSS
 
 ---
