@@ -24,19 +24,15 @@ Sou desenvolvedora de sistemas e professora de TI, apaixonada por transformar id
 ### 1. **[Cervejaria Goro - Projeto Digital House](https://github.com/Zer0iUm/cervejaria-goro)**
 - **Tecnologia:** Node.js, Express
 - **Descrição:** Este projeto foi desenvolvido durante o curso da Digital House, criando uma aplicação backend para uma cervejaria com funcionalidades de cadastro de produtos e controle de estoque.
-- **Status:** Projeto em andamento.
 
 ### 2. **[Trilha HTML - Módulo 3](https://github.com/maireox/trilha-html-modulo-3)**
 - **Tecnologia:** HTML
-- **Status:** Atualizado em Junho de 2024
 
 ### 3. **[Trilha .NET - Testes Unitários Desafio](https://github.com/maireox/trilha-net-testes-unitarios-desafio)**
 - **Tecnologia:** C#
-- **Status:** Atualizado em Janeiro de 2024
 
 ### 4. **[Login-Cadastro - Dev P2](https://github.com/maireox/Login-Cadastro-Dev-P2)**
 - **Tecnologia:** CSS
-- **Status:** Atualizado em Julho de 2023
 
 ---
 
