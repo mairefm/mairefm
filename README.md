@@ -1,46 +1,100 @@
-# 👋 Oi, eu sou a Mairê!
+# Olá! Eu sou a Mairê F. Malheiros
 
-Sou desenvolvedora de sistemas e professora de TI, apaixonada por transformar ideias em soluções digitais. Gosto de aplicar o que aprendo no mundo real, sempre buscando as melhores práticas para criar entregas funcionais e inovadoras.
+Sou **Desenvolvedora Frontend** com foco em **Angular + TypeScript**, e também **professora de Tecnologia** em escolas técnicas.  
+Atuo com desenvolvimento de aplicações web, criação de interfaces modernas e código limpo — sempre buscando evoluir e entregar soluções reais.
 
-## 💻 Tecnologias que uso no dia a dia
-
-### **Frontend:**
-- HTML, CSS, JavaScript, TypeScript
-
-### **Backend:**
-- PHP, Node.js, C#
-
-### **Frameworks e Ferramentas:**
-- WordPress (Elementor, WooCommerce, JetEngine, ACF)
-- Git, GitHub
-
-### **Desenvolvimento de Projetos:**
-- Criação de landing pages, projetos de cadastro/login, e-mails marketing, integrações e muito mais.
+Minha missão: unir **tecnologia, didática e criatividade** para entregar soluções reais e formar novos talentos.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Tecnologias & Ferramentas
 
-### 1. **[Cervejaria Goro - Projeto Digital House](https://github.com/Zer0iUm/cervejaria-goro)**
-- **Tecnologia:** Node.js, Express
-- **Descrição:** Este projeto foi desenvolvido durante o curso da Digital House, criando uma aplicação backend para uma cervejaria com funcionalidades de cadastro de produtos e controle de estoque.
+**Frontend:**
+- Angular (CLI 20.x)  
+- TypeScript  
+- HTML5 • CSS3 • SCSS  
+- JavaScript  
+- Angular Material  
+- Consumo de APIs REST  
+- RxJS  
 
-### 2. **[Trilha HTML - Módulo 3](https://github.com/mairefm/trilha-html-modulo-3)**
-- **Tecnologia:** HTML
+**Outras stacks:**
+- React (projetos de estudo)
+- Next.js (conceitos aprendidos no curso Fullstack)
+- Node.js e Express (base conceitual)
+- Python (educacional / jogos Kodland)  
+- Git & GitHub  
+- WordPress & WooCommerce (customização e plugins)  
 
-### 3. **[Trilha .NET - Testes Unitários Desafio](https://github.com/mairefm/trilha-net-testes-unitarios-desafio)**
-- **Tecnologia:** C#
-
-### 4. **[Login-Cadastro - Dev P2](https://github.com/mairefm/Login-Cadastro-Dev-P2)**
-- **Tecnologia:** CSS
+**Ferramentas:**
+- VS Code  
+- Figma  
+- Postman  
+- GitHub Pages  
 
 ---
 
-## 📫 Fale comigo
+## Projetos em Destaque
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/maire-malheiros-ti/)
+### **Angular — Sistema de Gestão de Cursos**  
+Aplicação Angular SPA com cadastro, edição, exclusão e visualização de cursos.  
+*Status:* em desenvolvimento (projeto de portfólio da Coderhouse)  
+🔗 Repositório: https://github.com/mairefm/angular-cursos-gestao
 
 ---
 
-🧙‍♀️ *"Com código e coragem, a gente constrói o futuro."*
+### **Login e Cadastro — Frontend**  
+Interface completa com animações, páginas de login e criação de conta.  
+🔗 Demo: https://mairefm.github.io/frontend-login-cadastro/  
+🔗 Repositório: https://github.com/mairefm/frontend-login-cadastro
 
+---
+
+### **Profile Card — Frontend Mentor**  
+Cartão de perfil responsivo criado para estudos de CSS.  
+🔗 Demo: https://mairefm.github.io/profile-card-projeto1/  
+🔗 Repositório: https://github.com/mairefm/profile-card-projeto1
+
+---
+
+### **Jogo em Python — “A Noite dos Vampiros”**  
+Jogo educacional feito com Pygame Zero para ensinar lógica e programação.  
+🔗 Repositório: https://github.com/mairefm/jogo_vampiros
+
+---
+
+## Experiência
+
+**Professora de Tecnologia**  
+Ensino projetos práticos de:
+- HTML, CSS e JavaScript  
+- Kodular / MIT App Inventor  
+- Computação e lógica  
+- Jogos educacionais  
+
+**Desenvolvedora WordPress (Plugins & WooCommerce)**  
+Experiência com:
+- Desenvolvimento de plugins  
+- Integração com APIs  
+- Customização de checkout  
+- Sistemas com Dokan e marketplaces  
+
+---
+
+## Objetivos Profissionais
+
+- Evoluir continuamente como desenvolvedora frontend, com foco em Angular e projetos web modernos.
+- Ampliar meu portfólio com aplicações robustas, escaláveis e bem estruturadas.
+- Colaborar em equipes onde eu possa contribuir tecnicamente e também com minha experiência como educadora.
+- Trabalhar em projetos que envolvam criatividade, tecnologia e impacto real.
+- Desenvolver soluções cada vez mais completas, integrando boas práticas, arquitetura limpa e uso eficiente de APIs.
+
+---
+
+## Contato
+
+**LinkedIn:** https://www.linkedin.com/in/maire-malheiros  
+**GitHub:** https://github.com/mairefm  
+**E-mail:** mairem.malheiros@gmail.com  
+
+---
