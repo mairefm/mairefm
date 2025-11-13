@@ -20,7 +20,7 @@ Minha missão: unir **tecnologia, didática e criatividade** para entregar solu�
 
 **Outras stacks:**
 - React (projetos de estudo)
-- Next.js (conceitos aprendidos no curso Fullstack)
+- Nest.js (conceitos aprendidos no curso Fullstack)
 - Node.js e Express (base conceitual)
 - Python (educacional / jogos Kodland)  
 - Git & GitHub  
