@@ -43,6 +43,12 @@ Aplicação Angular SPA com cadastro, edição, exclusão e visualização de cu
 
 ---
 
+### **Angular — CRUD completo de alunos com Angular**  
+Material Design, Reactive Forms, validação, chips de status e design premium. Totalmente responsivo.  
+🔗 Repositório:https://github.com/mairefm/angular-crud-alunos
+
+---
+
 ### **Login e Cadastro — Frontend**  
 Interface completa com animações, páginas de login e criação de conta.  
 🔗 Demo: https://mairefm.github.io/frontend-login-cadastro/  
